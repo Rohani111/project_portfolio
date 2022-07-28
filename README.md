@@ -11,7 +11,7 @@
     <td width=20%>Используемые библиотеки</td>
   </tr>
         <tr>
-    <td><a href="https://github.com/Rohani111/project_portfolio/tree/main/big_cities_musice">Музыка больших городов</a></td>
+    <td><a href="https://github.com/Rohani111/project_portfolio/tree/main/big_cities_music">Музыка больших городов</a></td>
     <td>In order to optimize production costs, the steelworks of So Hardening Steel Ltd. decided to reduce the electricity consumption during the steel processing phase. You will have to build a model that predicts the temperature of the steel.</td>
     <td>Python, Pandas, Matplotlib, Seaborn, exploratory data analysis, data visualization, data preprocessing, math, machine learning, gradient boosting, numpy</td>
   </tr>
