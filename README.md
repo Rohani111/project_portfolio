@@ -31,14 +31,14 @@
     <td>Python, Pandas, Matplotlib, NumPy, SciPy</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/12-predicting-taxi-trips">Predicting taxi trips</a></td>
-    <td>Trained a Machine Learning model to predict the number of taxi trips for the next hour.</td>
-    <td>Pandas, sklearn, numpy, LightGBM, Matplotlib, StatsModels, CatBoost, Machine Learning</td>
+    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/12-predicting-taxi-trips">Выявление закономерностей, определяющих успешность компьютерных игр </a></td>
+    <td>Выявить определяющие успешность игры закономерности.</td>
+    <td>Python, Pandas, Matplotlib, SciPy</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/11-car-price-prediction">Car price prediction</a></td>
-    <td>Trained the Machine Learning model to determine the market value of the car.</td>
-    <td>Pandas, Sklearn, Numpy, LightGBM, Machine Learning, CatBoost, XGBoost</td>
+    <td><a href="https://github.com/Rohani111/project_portfolio/tree/main/telecom_clients">Классификация клиентов телеком компании</a></td>
+    <td>Построить модель для задачи классификации с максимально большим значением accuracy (по крайней мере 0.75).</td>
+    <td>Python, Pandas, Matplotlib, Scikit-learn</td>
   </tr>
   <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/10-the-algorithm-for-data-protection">The Algorithm for data protection</a></td>
