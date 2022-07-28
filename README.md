@@ -41,7 +41,7 @@
     <td>Python, Pandas, Matplotlib, Scikit-learn</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Rohani111/project_portfolio/tree/main/bank_turnover">Прогнозирование оттока клиента Банка </a></td>
+    <td><a href="https://github.com/Rohani111/project_portfolio/tree/main/bank_turnover">Прогнозирование оттока клиентов банка </a></td>
     <td>На основе данных из банка определить клиента, который может уйти.</td>
     <td>Python, Pandas, Matplotlib, Numpy, Scikit-learn</td>
   </tr>
