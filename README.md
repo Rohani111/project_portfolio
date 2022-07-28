@@ -46,55 +46,34 @@
     <td>Python, Pandas, Matplotlib, Numpy, Scikit-learn</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Rohani111/project_portfolio/tree/main/oil_wells_location">Определение наиболее выгодного региона нефтедобычи</a></td>
+    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/08-development-of-new-oil-fields ">Определение наиболее выгодного региона нефтедобычи</a></td>
     <td>Построить модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль. Проанализируйте возможную прибыль и риски техникой Bootstrap.</td>
     <td>Python, Pandas, Numpy, Scikit-learn</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/08-development-of-new-oil-fields">Определение наиболее выгодного региона нефтедобычи</a></td>
+    <td><a href="https://github.com/Rohani111/project_portfolio/tree/main/gold_recovery ">Восстановление золота из руды</a></td>
     <td>Decided in which region to extract oil. Built a machine learning model that helped determine the region where mining will bring the most profit with the least risk of loss.</td>
-    <td>Pandas, Sklearn, Math, Numpy, Seaborn, Matplotlib, SciPy, Bootstrap, Machine Learning</td>
+    <td>Python, Pandas, Matplotlib, Seaborn, Scikit-learn</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/07-bank-churn-prediction">Bank Churn prediction</a></td>
-    <td>Analysis of the outflow of clients from the bank to select a strategy (retaining old clients or attracting new clients)</td>
-    <td>Machine Learning, Pandas, Matplotlib, Seaborn, Numpy, Sklearn, Math</td>
+    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/07-bank-churn-prediction">Защита персональных данных клиентов</a></td>
+    <td>Разработать такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию, но при этом качество моделей машинного обучения не ухудшилось.</td>
+    <td>Python, Pandas, Matplotlib</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/06-classifying-profitable-plan-for-a-telecom-company">Classifying profitable plan for a telecom company</a></td>
-    <td>Built the first Machine Learning model for the classification problem, which finds a suitable tariff</td>
-    <td>Machine Learning, Pandas, Numpy, Python, Seaborn</td>
+    <td><a href="https://github.com/Rohani111/project_portfolio/tree/main/car_valuation">Определение стоимости автомобилей</a></td>
+    <td>Построить модель для определения стоимости автомобиля. Заказчику важны: качество предсказания, скорость предсказания и время обучения.</td>
+    <td>Python, Pandas, Matplotlib, Seaborn, Numpy, Scikit-learn, Scipy</td>
+  </tr>
+  <tr> 
+    <td><a href="https://github.com/Rohani111/project_portfolio/tree/main/taxi_prediction">Прогнозирование заказов такси</a></td>
+    <td>Построить модель прогнозирования количества заказов такси на следующий час.</td>
+    <td>Python, Pandas, Matplotlib, Seaborn, Scikit-learn</td>
   </tr>
   <tr>
-  <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/05-patterns-that-determine-the-success-of-game-platforms">Patterns that determine the success of game platforms.</a></td>
-    <td>Using historical data on sales of computer games, user and expert ratings, genres and platforms. I identified patterns that determine the success of a game
+  <td><a href="https://github.com/Rohani111/project_portfolio/tree/main/comment_tonality">Обучение модели классификации комментариев</a></td>
+    <td>Обучить модель классифицировать комментарии на позитивные и негативные.
 </td>
-    <td>Python, Pandas, numpy, Matplotlib, Preprocessing data, Exploratory Data Analysis, Statistics, statistical hypothesis testing, Seaborn, SciPy</td>
-  </tr>
-  <tr>
-  <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/04-determination-of-a-profitable-plan-for-a-telecom-company">Determination of a profitable plan for a telecom company</a></td>
-    <td>Based on the data of the mobile operators customers, i analyzed customer behavior and found the optimal plan for the company.
-</td>
-    <td>Python, Pandas, Matplotlib, numpy, SciPy, Statistics, Statistical Hypothesis testing, Math, Seaborn</td>
-  </tr>
-     <tr>
-  <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/03-real-estate-market-analysis">Real estate market analysis</a></td>
-    <td>Using data from the Yandex.Realty service, i determined the market value of real estate objects and typical parameters of apartments.</td>
-    <td>Python, Pandas, Matplotlib, Exploratory Data Analysis, Data Visualization, Preprocessing Data, Math</td>
-  </tr>
-   <tr>
-  <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/02-research-on-the-reliability-of-borrowers">Research on the reliability of borrowers</a></td>
-    <td>Based on statistics on the paying capacity of clients. I researched is the marital status and the number of the client's children affect the fact of the loan repayment on time</td>
-    <td>preprocessing data, Python, Pandas, PyMystem3,Lemmatization, SciPy, Matplotlib, Seaborn, SciKitLearn,numpy
-</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/01-yandex-music">Yandex Music</a></td>
-    <td>Comparison of musical tastes of Moscow and St. Petersburg. How different is the music that plays on the way to work on Monday morning from the one that plays on Wednesday or at the end of the work week.</td>
-    <td>Python, Pandas, Numpy</td>
-  </tr>
+    <td>Python, Pandas, Matplotlib, Nltk, Re, Scikit-learn</td>
+  
 </table>
-
-<br>
-<i> Please don't plagiarize any of my projects — it won't help you in the long run!<i>
-
