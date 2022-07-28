@@ -21,14 +21,14 @@
     <td>Python, Pandas</td>
   </tr>
     <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/14-data_research_of_airline_company">Data Research of airline company</a></td>
-    <td>Perform uploads and preparation of airline data using SQL, test the hypothesis about the difference in average demand for tickets during different events</td>
-    <td>SQL, Python, Pandas, Matplotlib, SciPy, Statistical hypothesis testing</td>
+    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/14-data_research_of_airline_company">Исследование объявлений о продаже квартир </a></td>
+    <td>Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир.</td>
+    <td>Python, Pandas, Matpotlib</td> 
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/13-classifying-comments">Classifying comments</a></td>
-    <td>Speeded up the moderation of comments by automating their toxicity assessment. Trained the model to classify comments as toxic and non-toxic.</td>
-    <td>Pandas, Python, Machine Learning, NLTK, LightGBM, Sklearn</td>
+    <td><a href="https://github.com/Rohani111/project_portfolio/tree/main/telecom_tariffs">Определение перспективного тарифа для телеком-компании </a></td>
+    <td>На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа. Проверить гипотезы о различии выручки абонентов разных тарифов и различии выручки абонентов из Москвы и других регионов.</td>
+    <td>Python, Pandas, Matplotlib, NumPy, SciPy</td>
   </tr>
   <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/12-predicting-taxi-trips">Predicting taxi trips</a></td>
