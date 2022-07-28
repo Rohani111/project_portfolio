@@ -46,7 +46,7 @@
     <td>Python, Pandas, Matplotlib, Numpy, Scikit-learn</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/08-development-of-new-oil-fields ">Определение наиболее выгодного региона нефтедобычи</a></td>
+    <td><a href="https://github.com/Rohani111/project_portfolio/tree/main/oil_wells_location">Определение наиболее выгодного региона нефтедобычи</a></td>
     <td>Построить модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль. Проанализируйте возможную прибыль и риски техникой Bootstrap.</td>
     <td>Python, Pandas, Numpy, Scikit-learn</td>
   </tr>
