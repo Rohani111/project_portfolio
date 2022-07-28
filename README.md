@@ -31,7 +31,7 @@
     <td>Python, Pandas, Matplotlib, NumPy, SciPy</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/12-predicting-taxi-trips">Выявление закономерностей, определяющих успешность компьютерных игр </a></td>
+    <td><a href="https://github.com/Rohani111/project_portfolio/tree/main/video_games">Выявление закономерностей, определяющих успешность компьютерных игр </a></td>
     <td>Выявить определяющие успешность игры закономерности.</td>
     <td>Python, Pandas, Matplotlib, SciPy</td>
   </tr>
@@ -56,7 +56,7 @@
     <td>Python, Pandas, Matplotlib, Seaborn, Scikit-learn</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/07-bank-churn-prediction">Защита персональных данных клиентов</a></td>
+    <td><a href="https://github.com/Rohani111/project_portfolio/tree/main/oil_wells_location">Защита персональных данных клиентов</a></td>
     <td>Разработать такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию, но при этом качество моделей машинного обучения не ухудшилось.</td>
     <td>Python, Pandas, Matplotlib</td>
   </tr>
