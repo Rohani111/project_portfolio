@@ -12,13 +12,13 @@
   </tr>
         <tr>
     <td><a href="https://github.com/Rohani111/project_portfolio/tree/main/big_cities_music">Музыка больших городов</a></td>
-    <td>In order to optimize production costs, the steelworks of So Hardening Steel Ltd. decided to reduce the electricity consumption during the steel processing phase. You will have to build a model that predicts the temperature of the steel.</td>
-    <td>Python, Pandas, Matplotlib, Seaborn, exploratory data analysis, data visualization, data preprocessing, math, machine learning, gradient boosting, numpy</td>
+    <td>На реальных данных Яндекс.Музыки провести сравнение музыкальных предпочтений у жителей Москвы и Санкт-Петербурга.</td>
+    <td>Python, Pandas</td>
   </tr>
       <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/15-age_recognition_by_photo">Age recognition by photo</a></td>
-    <td>Build a machine learning model that determines the approximate age of a person from a photo. There is a set of photos of people with an indication of their age.</td>
-    <td>Pandas, keras, Matplotlib, Seaborn, Computer Vision, Machine Learning</td>
+    <td><a href="https://github.com/Rohani111/project_portfolio/tree/main/credit_scoring">Исследование надёжности заёмщиков</a></td>
+    <td>На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок.</td>
+    <td>Python, Pandas</td>
   </tr>
     <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/14-data_research_of_airline_company">Data Research of airline company</a></td>
