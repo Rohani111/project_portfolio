@@ -56,7 +56,7 @@
     <td>Python, Pandas, Matplotlib, Seaborn, Scikit-learn</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Rohani111/project_portfolio/tree/main/oil_wells_location">Защита персональных данных клиентов</a></td>
+    <td><a href="https://github.com/Rohani111/project_portfolio/tree/main/personal_data_protection">Защита персональных данных клиентов</a></td>
     <td>Разработать такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию, но при этом качество моделей машинного обучения не ухудшилось.</td>
     <td>Python, Pandas, Matplotlib</td>
   </tr>
