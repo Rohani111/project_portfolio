@@ -41,18 +41,17 @@
     <td>Python, Pandas, Matplotlib, Scikit-learn</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/10-the-algorithm-for-data-protection">The Algorithm for data protection</a></td>
-    <td>The personal information of the clients of the insurance company was protected (encrypted), using the data conversion method..</td>
-    <td>Pandas, Seaborn, Numpy, Sklearn, Machine Learning</td>
+    <td><a href="https://github.com/Rohani111/project_portfolio/tree/main/bank_turnover">Прогнозирование оттока клиента Банка </a></td>
+    <td>На основе данных из банка определить клиента, который может уйти.</td>
+    <td>Python, Pandas, Matplotlib, Numpy, Scikit-learn</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/09-machine-learning-model-for-a-metalworking-enterprise">Machine Learning Model for a metalworking enterprise</a></td>
-    <td>Developed a model predicting the recovery rate of gold from gold ore.
-The model helped to optimize production in order not to launch a plant with unprofitable characteristics.</td>
-    <td>Pandas, Sklearn, Numpy, Seaborn, Matplotlib, Math, Machine Learning</td>
+    <td><a href="https://github.com/Rohani111/project_portfolio/tree/main/oil_wells_location">Определение наиболее выгодного региона нефтедобычи</a></td>
+    <td>Построить модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль. Проанализируйте возможную прибыль и риски техникой Bootstrap.</td>
+    <td>Python, Pandas, Numpy, Scikit-learn</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/08-development-of-new-oil-fields">Development of new oil fields</a></td>
+    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/08-development-of-new-oil-fields">Определение наиболее выгодного региона нефтедобычи</a></td>
     <td>Decided in which region to extract oil. Built a machine learning model that helped determine the region where mining will bring the most profit with the least risk of loss.</td>
     <td>Pandas, Sklearn, Math, Numpy, Seaborn, Matplotlib, SciPy, Bootstrap, Machine Learning</td>
   </tr>
