@@ -21,7 +21,7 @@
     <td>Python, Pandas</td>
   </tr>
     <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/14-data_research_of_airline_company">Исследование объявлений о продаже квартир </a></td>
+    <td><a href="https://github.com/Rohani111/project_portfolio/tree/main/apartment_advertising">Исследование объявлений о продаже квартир </a></td>
     <td>Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир.</td>
     <td>Python, Pandas, Matpotlib</td> 
   </tr>
