@@ -77,7 +77,7 @@
     <td>Python, Pandas, Matplotlib, Nltk, Re, Scikit-learn</td>
       </tr>
   <tr>
-  <td><a href="https://github.com/Rohani111/project_portfolio/tree/main/comment_tonality">Определение возраста покупателей</a></td>
+  <td><a href="https://github.com/Rohani111/project_portfolio/tree/main/age_recognition_by_photo">Определение возраста покупателей</a></td>
     <td>Обучить модель по фотографии определять приблизительный возраст человека.
 </td>
     <td>Python, Pandas, Matplotlib, Keras</td>
