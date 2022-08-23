@@ -81,5 +81,11 @@
     <td>Обучить модель по фотографии определять приблизительный возраст человека.
 </td>
     <td>Python, Pandas, Matplotlib, Keras</td>
+          </tr>
+  <tr>
+  <td><a href="https://github.com/Rohani111/project_portfolio/tree/main/steel_melting_temperature">Температура плавки стали</a></td>
+    <td>Обучить модель предсказывать оптимальную температуру плавки стали.
+</td>
+    <td>Python, Pandas, Matplotlib, Seaborn, Numpy, Supervenn, Shap</td>
   
 </table>
